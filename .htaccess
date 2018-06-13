@@ -1,0 +1,6 @@
+<Files wp-login.php>
+AuthName "Input ID & Password"
+AuthType Basic
+AuthUserFile /home/www/◯◯◯/.htpasswd
+Require valid-user
+</Files>
